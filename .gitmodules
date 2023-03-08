@@ -1,0 +1,3 @@
+[submodule "external/vision"]
+	path = external/vision
+	url = git@github.com:pytorch/vision.git
